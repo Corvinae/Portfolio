@@ -1,0 +1,50 @@
+body {
+    background: #3289a8;
+    
+}
+
+#portfolio {
+    background: #a0aaba;
+    height: 300px;
+    margin: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4287f5;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #d52eff;
+}
+
+img {
+    width: 1000px;
+}
+
+#graybox {
+    background: grey;
+    display: flex;
+    padding: 10%;
+    text-align: center;
+}
+
+#crow {
+    width: 50%;
+}
+
